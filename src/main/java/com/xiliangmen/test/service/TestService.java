@@ -7,4 +7,8 @@ package com.xiliangmen.test.service;
  * @Created by FengYu
  */
 public class TestService {
+
+    public  void ss(){
+
+    }
 }
